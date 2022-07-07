@@ -1,0 +1,106 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0%;
+}
+
+.font {
+    text-align: center;
+
+}
+
+.button {
+
+    font-size: 25px;
+
+
+    background-image: linear-gradient(red, tomato);
+    color: rgb(245, 246, 247);
+    border-radius: 7px;
+    margin-left: 40%;
+    margin-right: 50%;
+
+    padding: 4px 15px;
+    margin-bottom: 10%;
+
+
+}
+
+#first {
+    font-size: 60px;
+    color: white;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(12, 12, 12);
+
+}
+
+.image {
+    background-image: url(images/donation14.webp);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    padding-top: 15%;
+    padding: 1%
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(7, 7, 7);
+    text-align: center;
+}
+
+#second {
+
+    font-size: 30px;
+    color: white;
+}
+
+.third {
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+    color: rgb(246, 225, 225);
+}
+
+.box {
+
+    margin-left: 30%;
+    background-color: aqua;
+    border: none;
+    color: blanchedalmond;
+    padding: 25px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin-left: 1%;
+    margin-bottom: 4%;
+
+    background-color: rgb(240, 230, 224);
+}
+
+.play {
+    margin-left: 20%;
+}
+
+.half {
+    text-align: center;
+    color: rgb(208, 199, 192);
+    font-size: 25px;
+    box-shadow: 0px 2px 0px rgb(183, 166, 166);
+    margin-left: 20%;
+    margin-right: 20%;
+}
